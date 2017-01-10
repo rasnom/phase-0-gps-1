@@ -6,7 +6,7 @@
 ##Boards
 Boards can be made from different materials:
 * Wood
-* *Plastic*
+* *Polymer*
 
 ```
 if board = wood
